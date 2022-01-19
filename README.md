@@ -11,7 +11,7 @@ Born in Jan 1999. Develops web applications with <b>PHP</b>, <b>C#</b> or <b>Nod
 <img src="https://komarev.com/ghpvc/?username=enteresanlikk&color=yellow&style=flat-square" alt="profile views">
 </p>
 
-<!--
+
 <div style="width: 100%;position: relative;" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=enteresanlikk&show_icons=true&custom_title=Info&hide_border=true&hide=issues,contribs,prs&hide_rank=true&count_private=true&bg_color=0d1117&title_color=fff&text_color=ddd&icon_color=FED766"
 style="float: left; margin: 0 10px;" alt="info box" />
@@ -149,4 +149,3 @@ alt="typescript" width="40" height="30" style="padding: 5px;border-radius: 5px;m
 alt="vuejs" width="40" height="30" style="padding: 5px;border-radius: 5px;margin: 5px;" />
 </a>
 </div>
--->
