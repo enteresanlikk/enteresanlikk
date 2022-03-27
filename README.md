@@ -24,14 +24,6 @@ style="float: left; margin: 0 10px;" alt="my languages box" />
 
 <h3>Connect with me:</h3>
 <div>
-<a href="https://twitter.com/enteresanlikk" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-alt="twitter" width="40" height="30" style="padding: 5px;border-radius: 5px;margin: 5px;" />
-</a>
-<a href="https://instagram.com/deneme123456761" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="instagram" width="40" height="30" style="padding: 5px;border-radius: 5px;margin: 5px;" />
-</a>
 
 <a href="https://www.linkedin.com/in/bilaldmr/" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
