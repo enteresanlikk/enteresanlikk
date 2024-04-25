@@ -3,7 +3,7 @@ Hi, I'm Bilal Demir
 </h1>
 
 <p align="center">
-Born in Jan 1999. Develops web applications with <b>PHP</b>, <b>C#</b> or <b>Node.js</b> and Rest API with
+Develops web applications with <b>PHP</b>, <b>C#</b> or <b>Node.js</b> and Rest API with
 <b>.Net Core</b> or <b>Node.js</b>.
 </p>
 
